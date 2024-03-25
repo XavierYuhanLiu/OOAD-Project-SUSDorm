@@ -1,13 +1,15 @@
-# OOAD
+<div align=center>
 
-**SUSDorm - A tool to manage dormitory in SUSTech.**
+<img src="public/logo-no-background.png" alt="drawing" height="200"/>
 
-This is the Object Oriented Analysis and Design(OOAD) course project at Southern University of Science and Technology(SUSTech) in the fall of 2023. We use NuxtJS as front-end and Django as back-end.
+# SUSDorm
 
-Contributor: Ryan Tang, 蒋钦杰, 刘宇涵, 尹子豪
+**A Domitory Management System for SUSTech**
 
-## Frontend
+![Python](https://img.shields.io/badge/Python-3.8.10-blue)
+![Django](https://img.shields.io/badge/Django-3.2.16-blue)
+![Vue](https://img.shields.io/badge/Vue-2.9.2-blue)
+![NuxtJS](https://img.shields.io/badge/Nuxt-2.15.8-blue)
+![ElementUI](https://img.shields.io/badge/Element--UI-2.15.14-blue)
 
-## Backend
-
-In the backend, we use Django as the basic framework which provides easy-to-use modern features. We use rest-framework to build our APIs, SQLite as database and Aliyun OSS as media storage.
+</div>
