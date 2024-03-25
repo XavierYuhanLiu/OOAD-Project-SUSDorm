@@ -1,22 +1,18 @@
-<div align=center>
-
-<img src="public/logo-no-background.png" alt="drawing" height="200"/>
-
-# SUSDorm
-
-**A Domitory Management System for SUSTech.**
-
-**It's also the course project of SUSTech OOAD course.**
-
-![Python](https://img.shields.io/badge/Python-3.8.10-blue)
-![Django](https://img.shields.io/badge/Django-3.2.16-blue)
-![Vue](https://img.shields.io/badge/Vue-2.9.2-blue)
-![NuxtJS](https://img.shields.io/badge/Nuxt-2.15.8-blue)
-![ElementUI](https://img.shields.io/badge/Element--UI-2.15.14-blue)
-
 </div>
 
 ## Features
+
+### Frontend
+The front end uses Vue.js and Nuxt.js, we leverage Vue.js for its easy-to-understand component-based programming, Nuxt.js front-end features such as automatic routing, server-side rendering/caching for fast rendering, and deployed on Vercel.
+
+Key features from the front end include:
+Dormitory Management System:
+• Selecting rooms in different locations on campus with different room types.
+• Commenting and rating rooms.
+• Group chats for room discussion.
+• Faculty Portal to support administrative functions such as performing CRUD in objects in websites.
+
+### Backend
 
 
 ## Quickstart
