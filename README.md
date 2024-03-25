@@ -29,6 +29,13 @@ Key features from the front end include:
 
 ### Backend
 
+The backend is completed with Django and DRF. Django framework offers a lot of easy-use and advances features. With django, we have beautiful admin site. And we build the restful API using Django Rest Framework.
+
+Key features from the backend include:
+- Add, Delete, Lookup and Change functions
+- Restful API
+- Beautiful Admin Site
+- OSS Storage
 
 ## Quickstart
 
