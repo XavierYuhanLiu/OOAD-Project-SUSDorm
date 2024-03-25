@@ -1,15 +1,29 @@
-<div align=center>
+# OOAD
 
-<img src="public/logo-no-background.png" alt="drawing" height="200"/>
+**SUSDorm - A tool to manage dormitory in SUSTech.**
 
-# SUSDorm
+This is the Object Oriented Analysis and Design(OOAD) course project at Southern University of Science and Technology(SUSTech) in the fall of 2023. We use NuxtJS as front end and Django as the back end.
 
-**A Domitory Management System for SUSTech**
+Contributor: Ryan Tang, 蒋钦杰, 刘宇涵, 尹子豪
 
-![Python](https://img.shields.io/badge/Python-3.8.10-blue)
-![Django](https://img.shields.io/badge/Django-3.2.16-blue)
-![Vue](https://img.shields.io/badge/Vue-2.9.2-blue)
-![NuxtJS](https://img.shields.io/badge/Nuxt-2.15.8-blue)
-![ElementUI](https://img.shields.io/badge/Element--UI-2.15.14-blue)
+## Frontend
+The front end uses Vue.js and Nuxt.js, we leverage Vue.js for its easy-to-understand component-based programming, Nuxt.js front-end features such as automatic routing, server-side rendering/caching for fast rendering, and deployed on Vercel.
 
-</div>
+Key features from the front end include:
+Dormitory Management System:
+• Selecting rooms in different locations on campus with different room types.
+• Commenting and rating rooms.
+• Group chats for room discussion.
+• Faculty Portal to support administrative functions such as performing CRUD in objects in websites.
+
+## Backend
+
+In the backend, we use Django as the basic framework which provides easy-to-use modern features. We use rest-framework to build our APIs, SQLite as database, and Aliyun OSS as media storage.
+
+A demonstration video can be shown below:
+
+1. Demo 1
+
+
+Uploading demo_video1.mp4…
+
