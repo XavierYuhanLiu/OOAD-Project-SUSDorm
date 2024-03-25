@@ -1,3 +1,13 @@
+<div align=center>
+
+<img src="public/logo-color.png" width=300 alt="logo"/>
+
+# SUSDorm
+
+**A Dormitory Management System for SUSTech**
+
+**It's also the project of SUSTech OOAD course.**
+
 </div>
 
 ## Features
@@ -41,4 +51,10 @@ Use uwsgi to run the application.
 
 ## Contributors
 
+<a href="https://github.com/XavierYuhanLiu/OOAD-Project-SUSDorm/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=XavierYuhanLiu/OOAD-Project-SUSDorm" />
+</a>
+
 ## License
+
+[MIT](LICENSE)
